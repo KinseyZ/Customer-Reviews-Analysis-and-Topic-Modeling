@@ -1,1 +1,1 @@
-unsupervised learning modle
+unsupervised machine learning model
